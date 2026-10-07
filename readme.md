@@ -142,6 +142,14 @@ Purchase on the [App Store](https://apps.apple.com/app/markdown-preview-quick-lo
 
 [![](screenshots/MarkdownPreview.png)](https://anybox.ltd/markdown-preview)
 
+### [MacMD Viewer](https://macmdviewer.com) 💰
+
+> Preview Markdown files with Mermaid diagrams, syntax-highlighted code blocks, and tables. Ships with a standalone viewer app.
+
+Run `brew install --cask macmd-viewer` or purchase on the [website](https://macmdviewer.com).
+
+[![](screenshots/MacMDViewer.png)](https://macmdviewer.com)
+
 ### [EPS Preview](https://anybox.ltd/eps-preview) 💰
 
 > EPS Preview adds Quick Look and thumbnails of EPS files to Finder.
